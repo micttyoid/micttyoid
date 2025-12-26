@@ -9,9 +9,11 @@
     Hello.
 </h1>
 
-<p align="center">
-    I develop, manage the community, and maintain the live, real-time distributed system, including its backend architecture and all related endpoints.
-</p>
+<ul>
+  <li>I develop, manage the community, and maintain the live distributed system, including its backend architecture and all related endpoints.</li>
+  <li>I develop real-time interactive systems especially with new technologies.</li>
+  <li>I integrate emerging technologies into production.</li>
+</ul>
 
 <p align="center">
   <a href="https://github.com/micttyoid">
