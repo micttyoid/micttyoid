@@ -6,7 +6,7 @@
 </head>
 
 <h1 align="center">
-    Hello
+    I develop, manage the community, and maintain the live, real-time distributed system, including its backend architecture and all related endpoints.
 </h1>
 
 <p align="center">
