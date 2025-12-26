@@ -6,8 +6,12 @@
 </head>
 
 <h1 align="center">
-    I develop, manage the community, and maintain the live, real-time distributed system, including its backend architecture and all related endpoints.
+    Hello.
 </h1>
+
+<p align="center">
+    I develop, manage the community, and maintain the live, real-time distributed system, including its backend architecture and all related endpoints.
+</p>
 
 <p align="center">
   <a href="https://github.com/micttyoid">
